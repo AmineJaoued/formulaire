@@ -1,0 +1,24 @@
+body{
+    background-image: url(https://i0.wp.com/trendintech.com/wp-content/uploads/2017/08/Ruby-and-JavaScript.jpg?fit=1600%2C800);
+    background-size: cover;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 50px;
+}
+.liste{
+    width: 150%;
+    margin: 5px;
+    padding: 8px;
+}
+.Ecriture{
+    color: white;
+    font-size: 20px;
+}
+.sub,.reset{
+    padding: 8px;
+}
+  
